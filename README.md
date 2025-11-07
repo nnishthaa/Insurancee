@@ -84,13 +84,6 @@ streamlit run app.py
 
 ---
 
-## 👨‍💼 Developed For
-**Insurance Company Policy Insights and Decision Support**  
-This dashboard enables managers to analyze policy performance, detect claim patterns, and improve risk evaluation strategies.
 
----
 
-## 🧾 Author
-**Kshitijs Shinde**  
-📍 SP Jain School of Global Management  
-Specialization: Global Finance  
+
